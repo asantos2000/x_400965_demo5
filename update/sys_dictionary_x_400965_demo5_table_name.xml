@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Name</column_label>
+        <column_label>FullName</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-09-19 13:52:23</sys_created_on>
-        <sys_id>c8ea72a4db0c88106a6ad001cf961995</sys_id>
+        <sys_id>edc10f24db4c88106a6ad001cf9619d1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Name</sys_name>
+        <sys_name>FullName</sys_name>
         <sys_package display_value="demo5" source="x_400965_demo5">cfd62e28dbc888106a6ad001cf9619d6</sys_package>
         <sys_policy/>
         <sys_scope display_value="demo5">cfd62e28dbc888106a6ad001cf9619d6</sys_scope>
         <sys_update_name>sys_dictionary_x_400965_demo5_table_name</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-19 13:52:23</sys_updated_on>
+        <sys_updated_on>2019-09-19 14:22:44</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
